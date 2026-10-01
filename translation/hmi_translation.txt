@@ -1,0 +1,345 @@
+指令集	Set di istruzioni
+资料中心	Centro risorse
+按下事件	Alla pressione
+弹起事件	Al rilascio
+滑动事件	Allo scorrimento
+定时事件	Al timer
+页面离开事件	All'uscita dalla pagina
+播放完成事件	A riproduzione terminata
+长按事件	Alla pressione prolungata
+编辑区重绘事件	Al ridisegno dell'area di modifica
+前初始化事件	Evento pre-inizializzazione
+后初始化事件	Evento post-inizializzazione
+曲线/波形	Curva/Forma d'onda
+滑块	Cursore
+动画	Animazione
+视频	Video
+音频	Audio
+触摸捕捉	Cattura tocco
+定时器	Timer
+变量	Variabile
+双态按钮	Pulsante a due stati
+数字	Numero
+滚动文本	Testo scorrevole
+复选框	Casella di controllo
+单选框	Pulsante di opzione
+二维码	Codice QR
+虚拟浮点数	Float virtuale
+外部图片	Immagine esterna
+下拉框	Menu a discesa
+滑动文本	Testo scorrevole (slide)
+文件流	Flusso di file
+文件遍历	Scansione file
+文件浏览器	Esplora file
+数据记录	Registrazione dati
+状态开关	Interruttore di stato
+选择文本	Seleziona testo
+Printer3D	Stampante 3D
+ColPic	Selettore colore
+按钮	Pulsanti
+进度条	Barra di avanzamento
+触摸热区	Aree tattili
+(78/79)触摸代码上传	(78/79) Caricamento codice tocco
+图片	Immagine
+切图	Ritaglio
+文本	Testo
+页面	Pagina
+指针	Lancetta
+ASCII文本录入_VP	Inserimento testo ASCII_VP
+变量数据录入_VP	Inserimento dati variabile_VP
+艺术字_VP	Testo artistico_VP
+文本_VP	Testo_VP
+数据变量_VP	Variabile dati_VP
+进度条_VP	Barra di avanzamento_VP
+图片_VP	Immagine_VP
+按钮_VP	Pulsante_VP
+二维码_VP	Codice QR_VP
+基础触控_VP	Tocco base_VP
+弹出菜单_VP	Menu a comparsa_VP
+图标轮播_VP	Carosello icone_VP
+曲线_VP	Curva_VP
+未知控件	Controllo sconosciuto
+宋体	SimSun
+logon	Accesso
+正在检测版本更新...	Ricerca aggiornamenti in corso...
+剪切	Taglia
+复制	Copia
+粘贴	Incolla
+删除	Elimina
+添加	Aggiungi
+插入	Inserisci
+替换	Sostituisci
+导出	Esporta
+全删	Elimina tutto
+名称设置	Impostazioni nome
+压缩质量设置	Impostazioni qualità di compressione
+允许透明像素	Consenti pixel trasparenti
+不允许透明像素	Non consentire pixel trasparenti
+全部选中	Seleziona tutto
+音频压缩	Compressione audio
+复制(Ctrl+C)	Copia (Ctrl+C)
+粘贴(Ctrl+V)	Incolla (Ctrl+V)
+原地粘贴(Ctrl+Shift+V)	Incolla in posizione (Ctrl+Shift+V)
+剪切(Ctrl+X)	Taglia (Ctrl+X)
+锁定	Blocca
+解锁	Sblocca
+创建组合	Raggruppa
+取消组合	Separa gruppo
+导出组合	Esporta gruppo
+导入组合	Importa gruppo
+新建	Nuovo
+上移	Sposta su
+下移	Sposta giù
+重命名	Rinomina
+导入页面	Importa pagina
+导出页面	Esporta pagina
+重置系统页面	Ripristina pagina di sistema
+界面	Interfaccia
+最近打开项目	Progetti recenti
+关于	Informazioni
+输出	Output
+事件	Evento
+发送键值	Invia valore tasto
+(后初始化事件在所有控件刷新显示之后执行)	(Gli eventi post-inizializzazione vengono eseguiti dopo l'aggiornamento di tutti i controlli)
+工具箱	Casella degli strumenti
+字库	Font
+当前系列不支持此资源!	La serie corrente non supporta questa risorsa!
+属性	Proprietà
+值	Valore
+方法	Metodo
+导入/导出页面	Importa/Esporta pagina
+文件	File
+输出生产文件	Genera file di produzione
+导出控件名称宏定义	Esporta macro dei nomi dei controlli
+打开	Apri
+保存	Salva
+另存为	Salva con nome
+版本备份目录	Cartella backup versioni
+虚拟eeprom文件夹	Cartella EEPROM virtuale
+虚拟SD卡文件夹	Cartella scheda SD virtuale
+导入工程	Importa progetto
+关闭工程	Chiudi progetto
+退出	Esci
+工具	Strumenti
+字库制作	Generatore di font
+动画制作(GmovMaker)	Creazione animazioni (GmovMaker)
+视频/音频转换(VideoBox)	Convertitore multimediale (VideoBox)
+图片转换(PictureBox)	Convertitore immagini (PictureBox)
+设置	Impostazioni
+软件设置	Impostazioni del software
+重置窗口布局	Ripristina layout finestre
+帮助	Guida
+检测版本更新	Verifica aggiornamenti
+最新信息	Ultime novità
+编译	Compila
+调试	Debug
+下载	Scarica
+撤销	Annulla
+恢复	Ripeti
+设备	Dispositivo
+置顶层	Porta in primo piano
+左对齐	Allinea a sinistra
+右对齐	Allinea a destra
+上对齐	Allinea in alto
+下对齐	Allinea in basso
+使宽度相同	Stessa larghezza
+使高度相同	Stessa altezza
+使大小相同	Stesse dimensioni
+使水平间距相同	Spaziatura orizzontale uniforme
+增加水平间距	Aumenta spaziatura orizzontale
+减少水平间距	Riduci spaziatura orizzontale
+使垂直间距相同	Spaziatura verticale uniforme
+增加垂直间距	Aumenta spaziatura verticale
+减少垂直间距	Riduci spaziatura verticale
+版本：	Versione: 
+打开工程	Apri progetto
+打开所在文件夹	Apri cartella contenitore
+删除当前记录	Elimina record corrente
+删除失效记录	Elimina record non validi
+删除所有记录	Elimina tutti i record
+历史记录最大数量设置	Numero massimo di record cronologia
+就绪	Pronto
+(已是最新版本)	(Versione già aggiornata)
+系统	Sistema
+恢复默认路径	Ripristina percorso predefinito
+设置自定义路径	Imposta percorso personalizzato
+透明颜色替换(透明色被禁用时)：	Sostituzione colore trasparente (se disattivato): 
+窗口字体: 	Carattere interfaccia: 
+窗口字体:	Carattere interfaccia:
+页面编辑区控件拖出显示区域延时限制	Limite di ritardo per trascinamento oltre il bordo
+调试页面串口数据超时截断时间(推荐100ms):	Timeout dati seriali (consigliato 100ms):
+调试页面代码高亮	Evidenziazione codice nel debug
+编辑页面代码高亮	Evidenziazione codice nell'editor
+鼠标悬停提示	Suggerimenti al passaggio del mouse
+指令参数提示	Suggerimenti parametri istruzione
+键盘输入关键字提示	Completamento automatico parole chiave
+调试页面代码区提示总开关	Interruttore generale suggerimenti debug
+编辑页面代码区提示总开关	Interruttore generale suggerimenti editor
+点击属性显示相应注释	Mostra descrizione della proprietà al clic
+置底层	Porta in secondo piano
+控件ID	ID controllo
+控件名称	Nome controllo
+内存占用(私有占用只能在当前页面被访问,全局占用可以在所有页面被访问):0-私有;1-全局	Ambito memoria: 0-Privato, 1-Globale
+是否支持拖动:0-否;1-是	Consenti trascinamento: 0-No, 1-Sì
+不透明度(0-127)	Opacità (0-127)
+X坐标	Coordinata X
+Y坐标	Coordinata Y
+宽度	Larghezza
+高度	Altezza
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入;9-淡入渐变;10-中间放大	Effetto di caricamento: 0-Nessuno, 1-Dall'alto, 2-Dal basso, 3-Da sinistra, 4-Da destra, 5-Da alto-sinistra, 6-Da alto-destra, 7-Da basso-sinistra, 8-Da basso-destra, 9-Dissolvenza, 10-Zoom
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入	Effetto di caricamento: 0-Nessuno, 1-Dall'alto, 2-Dal basso, 3-Da sinistra, 4-Da destra, 5-Da alto-sinistra, 6-Da alto-destra, 7-Da basso-sinistra, 8-Da basso-destra
+特效优先级(优先级越大越先执行，最大100)	Priorità effetto (0-100)
+特效时间(最小150ms,最大65535ms)	Durata effetto (150-65535ms)
+上滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento su (255=Nessuna)
+下滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento giù (255=Nessuna)
+左滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento a sinistra (255=Nessuna)
+右滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento a destra (255=Nessuna)
+背景填充方式:0-无背景;1-单色;2-图片	Riempimento sfondo: 0-Nessuno, 1-Tinta unita, 2-Immagine
+背景色	Colore sfondo
+背景图片(必须是全屏图片)	Immagine di sfondo (a schermo intero)
+全键盘	Tastiera completa
+数字键盘	Tastierino numerico
+九宫格键盘	Tastiera T9
+拼音输入法	Input Pinyin
+(前初始化事件在所有控件刷新显示之前执行)	(Gli eventi pre-inizializzazione vengono eseguiti prima del rendering dei controlli)
+背景填充方式:0-切图;1-单色;2-图片	Riempimento sfondo: 0-Ritaglio, 1-Tinta unita, 2-Immagine
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up	Stile: 0-Piatto, 1-Bordo, 2-3D in rilievo inverso, 3-3D in rilievo
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up;4-3D_Auto	Stile: 0-Piatto, 1-Bordo, 2-3D in rilievo inverso, 3-3D in rilievo, 4-3D automatico
+绑定键盘	Tastiera associata
+边框颜色	Colore bordo
+边框粗细,最大值:255	Spessore bordo (max 255)
+背景切图图片(必须是全屏图片)	Ritaglio sfondo (a schermo intero)
+背景图片	Immagine di sfondo
+字体色	Colore carattere
+水平对齐:0-靠左;1-居中;2-靠右	Allineamento orizzontale: 0-Sinistra, 1-Centro, 2-Destra
+垂直对齐:0-靠上;1-居中;2-靠下	Allineamento verticale: 0-Alto, 1-Centro, 2-Basso
+初始值(最小-2147483648,最大2147483647)	Valore iniziale (da -2147483648 a 2147483647)
+整数位数(0为自动,最大10位)	Cifre intere (0=Auto, max 10)
+小数位数(0为无小数,最大8位)	Cifre decimali (max 8)
+是否自动换行:0-否;1-是	A capo automatico: 0-No, 1-Sì
+字符横向间距(最小0,最大255)	Spaziatura orizzontale caratteri (0-255)
+字符纵向间距(最小0,最大255)	Spaziatura verticale caratteri (0-255)
+本次捕捉控件ID	ID controllo catturato
+背景切图(必须是全屏图片)	Ritaglio sfondo (a schermo intero)
+当前值	Valore corrente
+补偿值	Valore di compensazione
+尖长(允许负数)	Lunghezza punta (anche negativa)
+尾长(允许负数)	Lunghezza coda (anche negativa)
+中心偏移	Scostamento centro
+指针颜色	Colore lancetta
+中心圆颜色	Colore cerchio centrale
+中心圆直径,最大值:100(0为无中心圆)	Diametro cerchio centrale (0-100)
+指针粗细,最大值:20	Spessore lancetta (max 20)
+尖宽,最大值:128	Larghezza punta (max 128)
+腰宽,最大值:128	Larghezza centro (max 128)
+尾宽,最大值:128	Larghezza coda (max 128)
+切图图片(必须是全屏图片)	Immagine ritaglio (solo schermo intero)
+切图偏移x	Scostamento ritaglio X
+切图偏移y	Scostamento ritaglio Y
+是否显示为密码(内容仍为实际内容,仅仅显示出来为*):0-否;1-是	Modalità password: 0-No, 1-Sì
+字符内容	Contenuto testo
+字符最大长度(即分配内存空间)	Lunghezza massima (memoria allocata)
+无	Nessuno
+定时时间,单位:ms(最小50,最大65534)	Intervallo (ms: 50-65534)
+使能开关:0为关闭,1为开启	Abilita: 0-Disattivo, 1-Attivo
+数据类型:0-数值;1-字符串	Tipo di dati: 0-Numerico, 1-Stringa
+初始字符内容	Stringa iniziale
+默认背景图片	Immagine sfondo predefinita
+默认切图背景(必须是全屏图片)	Ritaglio sfondo predefinito (schermo intero)
+默认背景色	Colore sfondo predefinito
+按下背景图片	Immagine sfondo premuto
+按下切图背景(必须是全屏图片)	Ritaglio sfondo premuto (schermo intero)
+按下背景色	Colore sfondo premuto
+默认字体色	Colore carattere predefinito
+按下字体色	Colore carattere premuto
+当前状态(0或1)	Stato corrente (0 o 1)
+前景色	Colore primo piano
+中心LOGO:0-无;1-有	Logo centrale: 0-No, 1-Sì
+内容边距	Margini del contenuto
+字符最大长度(即分配内存空间:0-192)	Lunghezza massima stringa (0-192)
+当前所选硬件系列不支持此控件	La serie hardware selezionata non supporta questo controllo
+取消	Annulla
+否	No
+是	Sì
+确定	Conferma
+填充方式:0-单色;1-图片	Riempimento: 0-Tinta unita, 1-Immagine
+进度方式:0-横向;1-竖向	Direzione: 0-Orizzontale, 1-Verticale
+进度值	Valore di avanzamento
+外形圆角半径百分比(0-100,0为直角)	Raggio angoli % (0-100)
+前景图片	Immagine primo piano
+显示位数(0为自动,最大15位)	Cifre visualizzate (0=Auto, max 15)
+格式化类型:0-数字;1-货币;2-Hex	Formato: 0-Numero, 1-Valuta, 2-Hex
+滚动方向:0-从左往右;1-从右往左;2-从上往下;3-从下往上	Direzione scorrimento: 0-Sx→Dx, 1-Dx→Sx, 2-Alto→Basso, 3-Basso→Alto
+滚动幅度像素值(最小2,最大50)	Passo di scorrimento (pixel: 2-50)
+滚动周期(单位ms,最小80,最大65534)	Velocità di scorrimento (ms: 80-65534)
+滚动使能:0为关闭,1为开启	Scorrimento: 0-Disattivo, 1-Attivo
+平推方向:0-从左往右;1-从右往左;2-靠右对齐	Direzione di spinta: 0-Sx→Dx, 1-Dx→Sx, 2-Allineato a destra
+通道数量(最小1,最大4):1-1;2-2;3-3;4-4	Canali (1-4)
+网格颜色	Colore griglia
+网格宽度,0为无网格	Larghezza griglia (0=Nessuna)
+网格高度,0为无网格	Altezza griglia (0=Nessuna)
+通道0前景色	Colore canale 0
+通道1前景色	Colore canale 1
+通道2前景色	Colore canale 2
+通道3前景色	Colore canale 3
+数据缩放百分比(最小10,最大1000)	Scala dati % (10-1000)
+滑行方向:0-横向;1-竖向	Direzione cursore: 0-Orizzontale, 1-Verticale
+游标填充方式:0-单色;1-图片	Riempimento cursore: 0-Tinta unita, 1-Immagine
+游标宽度(255为自动，0为无游标)	Larghezza cursore (255=Auto, 0=Nessuno)
+游标高度(255为自动，0为无游标)	Altezza cursore (255=Auto, 0=Nessuno)
+前景切图图片(必须是全屏图片)	Ritaglio primo piano (schermo intero)
+游标图片	Immagine cursore
+游标颜色	Colore cursore
+最大值(0-65535)	Valore massimo (0-65535)
+最小值(0-65535)	Valore minimo (0-65535)
+背景宽度百分比(0-100,0为无需填充背景)	Larghezza sfondo % (0-100)
+清空	Svuota
+开始转换	Avvia conversione
+屏幕显示方向：	Orientamento schermo: 
+压缩质量：	Qualità di compressione: 
+精细	Fine
+极高	Altissima
+高	Alta
+中	Media
+低	Bassa
+极低	Bassissima
+生成动画	Genera animazione
+添加图片	Aggiungi immagine
+插入图片	Inserisci immagine
+延时时间设置(ms)	Impostazione ritardo (ms)
+字库制作工具	Generatore di font
+所有语言	Tutte le lingue
+字体抗锯齿	Anti-aliasing
+字体:	Carattere:
+生成字库	Genera font
+字库名称:	Nome font:
+范围:	Intervallo:
+预览区	Anteprima
+编码:	Codifica:
+字高:	Altezza carattere:
+字体加粗	Grassetto
+ASCII字符	Caratteri ASCII
+所有字符	Tutti i caratteri
+指定字符	Caratteri specifici
+自定义高度	Altezza personalizzata
+下次再提醒	Ricordamelo più tardi
+手动打开下载页面	Apri manualmente la pagina di download
+自动下载最新程序	Scarica automaticamente gli aggiornamenti
+如果自动下载速度过慢或者出现下载异常，请选择手动打开下载页面	Se il download automatico è lento o non riesce, apri manualmente la pagina di download.
+当前软件版本:	Versione corrente:
+官方发布最新版本:	Ultima versione ufficiale:
+请选择下载方式:	Seleziona il metodo di download:
+(立即更新)	(Aggiorna ora)
+当前版本不再提醒	Non ricordarmelo per questa versione
+Recently opened projects	Progetti recenti
+(Already the latest version)	(Versione già aggiornata)
+Load data.....	Caricamento dati...
+lock components	Blocca componenti
+unlock components	Sblocca componenti
+BLUE	Blu
+BLACK	Nero
+Style	Stile
+Encoding:	Codifica:
+Model:	Modello:
+inch:	Pollici:
+Cancel	Annulla
