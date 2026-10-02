@@ -370,8 +370,8 @@ TFT文件一次性烧录（SD烧录完成后自动更改扩展名）	Scrittura T
 初始值无效:	Valore iniziale non valido:
 错误:	Errore:
 编译失败!	Compilazione fallita!
-个错误,	errori,
-个警告	avvisi
+个错误,	 errori,
+个警告	 avvisi
 多行输入...	Input multiriga...
 多行输入	Input multiriga
 图片文件路径(如:	Percorso file immagine (es.:
@@ -430,3 +430,5 @@ TFT文件一次性烧录（SD烧录完成后自动更改扩展名）	Scrittura T
 (此指令无需参数)	(Questa istruzione non richiede parametri)
 无效指令	Istruzione non valida
 (双击此处定位代码)	(Doppio clic qui per individuare il codice)
+变量名称无效	Nome variabile non valido
+赋值操作失败	Assegnazione fallita
