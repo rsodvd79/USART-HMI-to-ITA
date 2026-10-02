@@ -426,3 +426,7 @@ TFT文件一次性烧录（SD烧录完成后自动更改扩展名）	Scrittura T
 [背光:	[Retroilluminazione:
 睡眠:	Sospensione:
 系统启动成功	Avvio del sistema riuscito
+控件	Controllo
+(此指令无需参数)	(Questa istruzione non richiede parametri)
+无效指令	Istruzione non valida
+(双击此处定位代码)	(Doppio clic qui per individuare il codice)
