@@ -51,6 +51,7 @@ Lo script esegue: backup delle DLL originali in `backup_original`, decifratura, 
    ```
    - codifica **UTF-8**, separatore **TAB** (non spazi)
    - corrispondenza esatta e case‑sensitive; vale la prima occorrenza
+   - **Proprietà a tendina** (chiave del tipo `Nome:0-a;1-b;2-c`): l'app ricava le voci dal testo tradotto, quindi la traduzione deve mantenere la struttura `Nome:0-x;1-y;2-z`, con un solo `:`, voci separate da `;` e senza `-`, `:`, `;` o `~` dentro i nomi delle voci. Altrimenti la tendina risulta vuota.
 3. Riavvia USART HMI (il file viene riletto quando cambia).
 
 Se aggiungi traduzioni utili, copiale anche in `translation/hmi_translation.txt` e apri una pull request.

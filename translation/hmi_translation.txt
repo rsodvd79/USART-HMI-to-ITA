@@ -179,22 +179,22 @@ logon	Accesso
 置底层	Porta in secondo piano
 控件ID	ID controllo
 控件名称	Nome controllo
-内存占用(私有占用只能在当前页面被访问,全局占用可以在所有页面被访问):0-私有;1-全局	Ambito memoria: 0-Privato, 1-Globale
-是否支持拖动:0-否;1-是	Consenti trascinamento: 0-No, 1-Sì
+内存占用(私有占用只能在当前页面被访问,全局占用可以在所有页面被访问):0-私有;1-全局	Ambito memoria (privato = solo pagina corrente, globale = tutte le pagine):0-Privato;1-Globale
+是否支持拖动:0-否;1-是	Consenti trascinamento:0-No;1-Sì
 不透明度(0-127)	Opacità (0-127)
 X坐标	Coordinata X
 Y坐标	Coordinata Y
 宽度	Larghezza
 高度	Altezza
-加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入;9-淡入渐变;10-中间放大	Effetto di caricamento: 0-Nessuno, 1-Dall'alto, 2-Dal basso, 3-Da sinistra, 4-Da destra, 5-Da alto-sinistra, 6-Da alto-destra, 7-Da basso-sinistra, 8-Da basso-destra, 9-Dissolvenza, 10-Zoom
-加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入	Effetto di caricamento: 0-Nessuno, 1-Dall'alto, 2-Dal basso, 3-Da sinistra, 4-Da destra, 5-Da alto-sinistra, 6-Da alto-destra, 7-Da basso-sinistra, 8-Da basso-destra
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入;9-淡入渐变;10-中间放大	Effetto di caricamento:0-Immediato;1-Dall'alto;2-Dal basso;3-Da sinistra;4-Da destra;5-Da alto a sinistra;6-Da alto a destra;7-Da basso a sinistra;8-Da basso a destra;9-Dissolvenza;10-Zoom centrale
+加载特效:0-立即加载;1-上边飞入;2-下边飞入;3-左边飞入;4-右边飞入;5-左上角飞入;6-右上角飞入;7-左下角飞入;8-右下角飞入	Effetto di caricamento:0-Immediato;1-Dall'alto;2-Dal basso;3-Da sinistra;4-Da destra;5-Da alto a sinistra;6-Da alto a destra;7-Da basso a sinistra;8-Da basso a destra
 特效优先级(优先级越大越先执行，最大100)	Priorità effetto (0-100)
 特效时间(最小150ms,最大65535ms)	Durata effetto (150-65535ms)
 上滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento su (255=Nessuna)
 下滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento giù (255=Nessuna)
 左滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento a sinistra (255=Nessuna)
 右滑翻页页面ID(255为无滑动翻页)	ID pagina scorrimento a destra (255=Nessuna)
-背景填充方式:0-无背景;1-单色;2-图片	Riempimento sfondo: 0-Nessuno, 1-Tinta unita, 2-Immagine
+背景填充方式:0-无背景;1-单色;2-图片	Riempimento sfondo:0-Nessuno;1-Tinta unita;2-Immagine
 背景色	Colore sfondo
 背景图片(必须是全屏图片)	Immagine di sfondo (a schermo intero)
 全键盘	Tastiera completa
@@ -202,21 +202,21 @@ Y坐标	Coordinata Y
 九宫格键盘	Tastiera T9
 拼音输入法	Input Pinyin
 (前初始化事件在所有控件刷新显示之前执行)	(Gli eventi pre-inizializzazione vengono eseguiti prima del rendering dei controlli)
-背景填充方式:0-切图;1-单色;2-图片	Riempimento sfondo: 0-Ritaglio, 1-Tinta unita, 2-Immagine
-显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up	Stile: 0-Piatto, 1-Bordo, 2-3D in rilievo inverso, 3-3D in rilievo
-显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up;4-3D_Auto	Stile: 0-Piatto, 1-Bordo, 2-3D in rilievo inverso, 3-3D in rilievo, 4-3D automatico
+背景填充方式:0-切图;1-单色;2-图片	Riempimento sfondo:0-Ritaglio;1-Tinta unita;2-Immagine
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up	Stile:0-Piatto;1-Bordo;2-3D_Down;3-3D_Up
+显示风格:0-平面;1-边框;2-3D_Down;3-3D_Up;4-3D_Auto	Stile:0-Piatto;1-Bordo;2-3D_Down;3-3D_Up;4-3D_Auto
 绑定键盘	Tastiera associata
 边框颜色	Colore bordo
 边框粗细,最大值:255	Spessore bordo (max 255)
 背景切图图片(必须是全屏图片)	Ritaglio sfondo (a schermo intero)
 背景图片	Immagine di sfondo
 字体色	Colore carattere
-水平对齐:0-靠左;1-居中;2-靠右	Allineamento orizzontale: 0-Sinistra, 1-Centro, 2-Destra
-垂直对齐:0-靠上;1-居中;2-靠下	Allineamento verticale: 0-Alto, 1-Centro, 2-Basso
+水平对齐:0-靠左;1-居中;2-靠右	Allineamento orizzontale:0-Sinistra;1-Centro;2-Destra
+垂直对齐:0-靠上;1-居中;2-靠下	Allineamento verticale:0-Alto;1-Centro;2-Basso
 初始值(最小-2147483648,最大2147483647)	Valore iniziale (da -2147483648 a 2147483647)
 整数位数(0为自动,最大10位)	Cifre intere (0=Auto, max 10)
 小数位数(0为无小数,最大8位)	Cifre decimali (max 8)
-是否自动换行:0-否;1-是	A capo automatico: 0-No, 1-Sì
+是否自动换行:0-否;1-是	A capo automatico:0-No;1-Sì
 字符横向间距(最小0,最大255)	Spaziatura orizzontale caratteri (0-255)
 字符纵向间距(最小0,最大255)	Spaziatura verticale caratteri (0-255)
 本次捕捉控件ID	ID controllo catturato
@@ -236,13 +236,13 @@ Y坐标	Coordinata Y
 切图图片(必须是全屏图片)	Immagine ritaglio (solo schermo intero)
 切图偏移x	Scostamento ritaglio X
 切图偏移y	Scostamento ritaglio Y
-是否显示为密码(内容仍为实际内容,仅仅显示出来为*):0-否;1-是	Modalità password: 0-No, 1-Sì
+是否显示为密码(内容仍为实际内容,仅仅显示出来为*):0-否;1-是	Modalità password (il contenuto resta quello reale, viene solo mostrato come *):0-No;1-Sì
 字符内容	Contenuto testo
 字符最大长度(即分配内存空间)	Lunghezza massima (memoria allocata)
 无	Nessuno
 定时时间,单位:ms(最小50,最大65534)	Intervallo (ms: 50-65534)
 使能开关:0为关闭,1为开启	Abilita: 0-Disattivo, 1-Attivo
-数据类型:0-数值;1-字符串	Tipo di dati: 0-Numerico, 1-Stringa
+数据类型:0-数值;1-字符串	Tipo di dati:0-Numerico;1-Stringa
 初始字符内容	Stringa iniziale
 默认背景图片	Immagine sfondo predefinita
 默认切图背景(必须是全屏图片)	Ritaglio sfondo predefinito (schermo intero)
@@ -254,7 +254,7 @@ Y坐标	Coordinata Y
 按下字体色	Colore carattere premuto
 当前状态(0或1)	Stato corrente (0 o 1)
 前景色	Colore primo piano
-中心LOGO:0-无;1-有	Logo centrale: 0-No, 1-Sì
+中心LOGO:0-无;1-有	Logo centrale:0-No;1-Sì
 内容边距	Margini del contenuto
 字符最大长度(即分配内存空间:0-192)	Lunghezza massima stringa (0-192)
 当前所选硬件系列不支持此控件	La serie hardware selezionata non supporta questo controllo
@@ -262,19 +262,19 @@ Y坐标	Coordinata Y
 否	No
 是	Sì
 确定	Conferma
-填充方式:0-单色;1-图片	Riempimento: 0-Tinta unita, 1-Immagine
-进度方式:0-横向;1-竖向	Direzione: 0-Orizzontale, 1-Verticale
+填充方式:0-单色;1-图片	Riempimento:0-Tinta unita;1-Immagine
+进度方式:0-横向;1-竖向	Direzione:0-Orizzontale;1-Verticale
 进度值	Valore di avanzamento
 外形圆角半径百分比(0-100,0为直角)	Raggio angoli % (0-100)
 前景图片	Immagine primo piano
 显示位数(0为自动,最大15位)	Cifre visualizzate (0=Auto, max 15)
-格式化类型:0-数字;1-货币;2-Hex	Formato: 0-Numero, 1-Valuta, 2-Hex
-滚动方向:0-从左往右;1-从右往左;2-从上往下;3-从下往上	Direzione scorrimento: 0-Sx→Dx, 1-Dx→Sx, 2-Alto→Basso, 3-Basso→Alto
+格式化类型:0-数字;1-货币;2-Hex	Formato:0-Numero;1-Valuta;2-Hex
+滚动方向:0-从左往右;1-从右往左;2-从上往下;3-从下往上	Direzione scorrimento:0-Da sinistra a destra;1-Da destra a sinistra;2-Dall'alto in basso;3-Dal basso in alto
 滚动幅度像素值(最小2,最大50)	Passo di scorrimento (pixel: 2-50)
 滚动周期(单位ms,最小80,最大65534)	Velocità di scorrimento (ms: 80-65534)
 滚动使能:0为关闭,1为开启	Scorrimento: 0-Disattivo, 1-Attivo
-平推方向:0-从左往右;1-从右往左;2-靠右对齐	Direzione di spinta: 0-Sx→Dx, 1-Dx→Sx, 2-Allineato a destra
-通道数量(最小1,最大4):1-1;2-2;3-3;4-4	Canali (1-4)
+平推方向:0-从左往右;1-从右往左;2-靠右对齐	Direzione di spinta:0-Da sinistra a destra;1-Da destra a sinistra;2-Allineato a destra
+通道数量(最小1,最大4):1-1;2-2;3-3;4-4	Numero di canali (min 1, max 4):1-1;2-2;3-3;4-4
 网格颜色	Colore griglia
 网格宽度,0为无网格	Larghezza griglia (0=Nessuna)
 网格高度,0为无网格	Altezza griglia (0=Nessuna)
@@ -283,8 +283,8 @@ Y坐标	Coordinata Y
 通道2前景色	Colore canale 2
 通道3前景色	Colore canale 3
 数据缩放百分比(最小10,最大1000)	Scala dati % (10-1000)
-滑行方向:0-横向;1-竖向	Direzione cursore: 0-Orizzontale, 1-Verticale
-游标填充方式:0-单色;1-图片	Riempimento cursore: 0-Tinta unita, 1-Immagine
+滑行方向:0-横向;1-竖向	Direzione cursore:0-Orizzontale;1-Verticale
+游标填充方式:0-单色;1-图片	Riempimento cursore:0-Tinta unita;1-Immagine
 游标宽度(255为自动，0为无游标)	Larghezza cursore (255=Auto, 0=Nessuno)
 游标高度(255为自动，0为无游标)	Altezza cursore (255=Auto, 0=Nessuno)
 前景切图图片(必须是全屏图片)	Ritaglio primo piano (schermo intero)
@@ -359,7 +359,7 @@ TFT文件一次性烧录（SD烧录完成后自动更改扩展名）	Scrittura T
 工程打开密码：	Password di apertura progetto: 
 请选择设备显示方向	Seleziona l'orientamento del display
 输出上电信息到串口	Invia informazioni di accensione alla porta seriale
-背景填充方式:0-切图;1-单色;2-图片;3-透明	Riempimento sfondo: 0-Ritaglio, 1-Tinta unita, 2-Immagine, 3-Trasparente
+背景填充方式:0-切图;1-单色;2-图片;3-透明	Riempimento sfondo:0-Ritaglio;1-Tinta unita;2-Immagine;3-Trasparente
 当前工程内容有修改，需要保存吗?	Il progetto corrente è stato modificato. Salvare?
 确认	Conferma
 总可用内存:	Memoria totale disponibile:
