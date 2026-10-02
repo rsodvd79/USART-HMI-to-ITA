@@ -343,3 +343,86 @@ Encoding:	Codifica:
 Model:	Modello:
 inch:	Pollici:
 Cancel	Annulla
+宏	Macro
+显示	Display
+工程	Progetto
+字符编码	Codifica caratteri
+横屏	Orizzontale
+竖屏	Verticale
+显示方向	Orientamento display
+编译时忽略字库资源	Ignora risorse font in compilazione
+编译时忽略图片资源	Ignora risorse immagini in compilazione
+启用描述指针内存设置(建议关闭)	Abilita impostazioni memoria puntatori descrittori (consigliato disattivato)
+自定义内存设置(HEX格式,非十进制,以双字节地址为单位,每行一条,最多6条)：	Impostazioni memoria personalizzate (formato HEX, non decimale, indirizzi a 2 byte, una per riga, max 6): 
+TFT文件一次性烧录（SD烧录完成后自动更改扩展名）	Scrittura TFT una tantum (l'estensione cambia automaticamente dopo la scrittura da SD)
+内存文件存储区大小：	Dimensione area archiviazione file in memoria: 
+工程打开密码：	Password di apertura progetto: 
+请选择设备显示方向	Seleziona l'orientamento del display
+输出上电信息到串口	Invia informazioni di accensione alla porta seriale
+背景填充方式:0-切图;1-单色;2-图片;3-透明	Riempimento sfondo: 0-Ritaglio, 1-Tinta unita, 2-Immagine, 3-Trasparente
+当前工程内容有修改，需要保存吗?	Il progetto corrente è stato modificato. Salvare?
+确认	Conferma
+总可用内存:	Memoria totale disponibile:
+全局内存占用:	Memoria globale usata:
+字库ID无效	ID font non valido
+页面:	Pagina:
+失败:	Errore:
+初始值无效:	Valore iniziale non valido:
+错误:	Errore:
+编译失败!	Compilazione fallita!
+个错误,	errori,
+个警告	avvisi
+多行输入...	Input multiriga...
+多行输入	Input multiriga
+图片文件路径(如:	Percorso file immagine (es.:
+或	oppure
+控件类型：	Tipo di controllo: 
+进度:	Avanzamento:
+字库大小:	Dimensione font:
+生成字库完成,字库大小:	Generazione font completata, dimensione font:
+是否立即加入刚才生成的字库?	Aggiungere subito il font appena generato?
+提示	Avviso
+字库总大小:	Dimensione totale font:
+占用内存:	Memoria usata:
+编译成功!	Compilazione riuscita!
+个警告,文件大小:	avvisi, dimensione file:
+串口调试	Debug seriale
+发送	Invia
+支持多通道同时发送，多个通道数字用逗号隔开即可,如 0,1,2	Supporta l'invio simultaneo su più canali; separa i numeri dei canali con virgole, es. 0,1,2
+最大	Massimo
+最小	Minimo
+随机	Casuale
+通道	Canale
+发送间隔(单位ms)	Intervallo di invio (ms)
+执行所有代码	Esegui tutto il codice
+操作	Operazioni
+校准设备RTC时钟	Calibra orologio RTC del dispositivo
+校准模拟器RTC时钟	Calibra orologio RTC del simulatore
+重启设备	Riavvia dispositivo
+重启模拟器	Riavvia simulatore
+全屏	Schermo intero
+指令发送到:	Invia istruzioni a:
+串口号:	Porta seriale:
+联机	Connetti
+指令编码:	Codifica istruzioni:
+设备状态:未联机	Stato dispositivo: non connesso
+曲线数据发生器	Generatore dati curva
+用户MCU输入	Input MCU utente
+键盘输入	Input da tastiera
+敲回车执行最后一条	Premi Invio per eseguire l'ultima istruzione
+数据含义:	Significato dei dati:
+串口设备返回数据:	Dati restituiti dal dispositivo seriale:
+模拟器返回数据:	Dati restituiti dal simulatore:
+指令输入区:	Area di input istruzioni:
+波特率	Baud rate
+串口号	Porta seriale
+开始	Avvia
+当前模拟器	Simulatore corrente
+本机串口	Porta seriale locale
+模拟器和串口	Simulatore e porta seriale
+设备状态:	Stato dispositivo:
+未联机	Non connesso
+自动搜索	Ricerca automatica
+[背光:	[Retroilluminazione:
+睡眠:	Sospensione:
+系统启动成功	Avvio del sistema riuscito
