@@ -64,6 +64,18 @@ Da PowerShell come amministratore:
 ```
 Ripristina le DLL originali dal backup e rimuove quelle aggiunte, così l'app torna a caricare `ACTR.dll`. Puoi eliminare `c:\devel\` a mano.
 
+## Avviso anti-manomissione (non traducibile)
+
+Durante l'uso, specie dopo aver applicato questa patch, può comparire un messagebox con titolo **"错误" (Errore)** e questo testo:
+
+> 版权声明:尊敬的用户，您当前正在使用的软件遭到暴力篡改，本软件为深圳市淘晶驰电子有限公司开发并申请软件著作权，我司将采取法律手段对篡改人进行法律诉讼，为保障您的个人权益，请立即卸载当前破解软件，如果继续使用，您的数据随时会有自毁风险，请务必立即停止使用并卸载软件.
+
+Traduzione: *"Dichiarazione di copyright: gentile utente, il software in uso ha subito una manomissione forzata. Il software è sviluppato da Shenzhen Topdisplay (TJC) Electronics Co., Ltd., che ne detiene i diritti d'autore. L'azienda intraprenderà azioni legali contro chi lo ha manomesso. A tutela dei tuoi dati, disinstalla subito il software craccato: continuando a usarlo rischi la perdita permanente dei dati. Interrompi immediatamente l'uso e disinstalla il software."*
+
+**Questo messaggio non viene tradotto intenzionalmente e non è gestibile con questo progetto.** Non passa dal metodo `hmitype.LanguageApp.Language()` usato per tutte le altre stringhe tradotte: è generato da `achmiface.dll`, un modulo di protezione anti-tampering del produttore (Shenzhen TJC) che rileva le modifiche apportate ai file del programma (incluse quelle di questa patch) e mostra l'avviso come deterrente. Sopprimerlo o modificarlo richiederebbe di disattivare un meccanismo di protezione/anti-manomissione del produttore, cosa che esula dallo scopo di questo repo (localizzazione dell'interfaccia) e che non viene supportata qui.
+
+Se compare e preferisci non vederlo, l'unica opzione è ripristinare i file originali con `scripts\Restore.ps1`.
+
 ## Risoluzione dei problemi
 
 | Problema | Soluzione |
